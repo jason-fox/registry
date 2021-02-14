@@ -144,10 +144,6 @@
       {
         "name": "org.dita.base",
         "req": ">=3.0.0"
-      },
-      {
-        "name": "org.doctales.xmltask",
-        "req": ">=1.16.1"
       }
     ],
     "url": "https://github.com/jason-fox/fox.jason.passthrough/archive/v4.0.0.zip",
